@@ -38,3 +38,4 @@ class Owner
     cat = Cat.new(name)
     @pets[:cats] << cat
   end
+end
