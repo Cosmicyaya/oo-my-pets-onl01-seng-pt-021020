@@ -70,3 +70,4 @@ class Owner
       "I have #{number_of_cats} cat(s) and #{number_of_dogs} dog(s)"
     end
   end
+end
