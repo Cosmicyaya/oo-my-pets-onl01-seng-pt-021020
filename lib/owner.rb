@@ -38,5 +38,6 @@ class Owner
       @pets[:cats] << cat
     end
   end
+end
   end
 end
